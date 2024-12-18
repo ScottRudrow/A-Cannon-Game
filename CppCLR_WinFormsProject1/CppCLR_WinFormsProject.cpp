@@ -1,5 +1,5 @@
 #include "pch.h"
-
+#include "Form1.h"
 using namespace System;
 
 // int main(array<System::String ^> ^args)
@@ -7,7 +7,7 @@ using namespace System;
 //    return 0;
 // }
 
-#include "Form1.h"
+
 
 using namespace System::Windows::Forms;
 
